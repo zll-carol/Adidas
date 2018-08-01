@@ -1,0 +1,21 @@
+.user-center{
+	margin-left: 50px;
+	width: 400px;
+	margin-top: 30px;
+	background: #ccc;
+	height: 450px;
+	border-radius: 10px;
+}
+.user-center .logo {
+	border: 1px solid #aaa;
+	width: 90px;
+	height: 90px;
+	text-align: center;
+	line-height: 80px;
+	margin-left: 10px; 
+	border-radius: 8px;
+}
+.user-center .logo  > img{
+	width: 70px;
+	height: 60px;
+}

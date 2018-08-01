@@ -1,0 +1,17 @@
+.AddProduct .title{
+	width: 150px;
+	height:50px;
+	border:1px dashed #aaa;
+	margin-left: 10px;
+	border-radius: 8px;
+}
+.AddProduct .title >h1{
+	color:rgb(80,50,100);
+}
+.AddProduct .ant-select-selection--single{
+	min-height: 35px;
+}
+.ant-form-item .ant-switch{
+	margin-right: 92%;
+	margin-top: 10px;
+}

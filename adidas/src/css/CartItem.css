@@ -1,0 +1,10 @@
+.cartItem >img{
+	display: inline-block;
+	float: left;
+}
+.cartItem >h4{
+	margin-top: -20px;
+}
+.cartItem >p{
+	margin-top: -18px;
+}

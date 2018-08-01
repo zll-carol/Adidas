@@ -1,0 +1,12 @@
+.edit {
+	padding: 40px;
+	font-size: 18px;
+}
+
+.edit .ant-form-item-label >label{
+	position: absolute;
+	left:0px;
+	z-index: 999;
+	top:-5px;
+	font-weight: 500;
+}

@@ -1,0 +1,86 @@
+.ant-carousel .slick-slide {  
+  text-align: center;
+  height:520px;
+  line-height: 160px;
+  background: #364d79;
+  overflow: hidden;
+}
+.ant-carousel .slick-slide h3 {
+  position: absolute;
+  left:0px;
+  right: 0px;
+  margin:auto;
+  top:350px;
+  width: 143px;
+  height: 48px;
+  color:black;
+  cursor:pointer;
+}
+.ant-carousel .slick-initialized .slick-slide{
+	position: relative;
+}
+.ant-carousel .slick-dots{
+	width: 150px;
+	border-radius: 20px;
+	height: 28px;
+	background: rgba(0, 0, 0, 0.5);
+	bottom: 45px;
+  position: relative;
+  margin:auto;
+}
+.ant-carousel .slick-dots li{
+	top:12px;
+}
+.home .left{
+	cursor: "pointer";
+	background:"red";
+	 position: absolute;
+  left:0px;
+  right: 0px;
+  margin:auto;
+  top:100px;
+  z-index: 999;
+  width: 100px;
+
+}
+.home .right{
+	cursor: "pointer";
+	background:"red";
+	 position: absolute;
+  left:0px;
+  right: 0px;
+  margin:auto;
+  top:100px;
+  z-index: 999;
+  width: 100px;
+
+}
+.home .card .ant-card-body{
+   width: 950px;
+  height: 460px;
+}
+.home .card {
+  position: relative;
+  margin-top: 10px;
+  margin-left: 324px;
+}
+.home .card1{
+  width: 100%;
+  max-width: 1024px;
+  padding-left: 10px;
+  margin:100px auto;
+  padding-left: 10px;
+}
+.home .card1 .ant-card-body{
+  width: 470px;
+  height: 264px;
+  border: none;
+  margin-top: 10px;
+}
+.ant-card-bordered{
+  border:none;
+}
+.home .card1 .custom-image{
+  width: 470px;
+  height: 264px;
+}

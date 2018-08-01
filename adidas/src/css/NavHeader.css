@@ -1,0 +1,80 @@
+.ant-menu-item, .ant-menu-submenu-title{
+	margin-left: 8px;
+}
+.ant-layout-header{
+	background-color: black;
+}
+.header{
+	height:74px;
+}
+/*.header >button{
+	float: right;
+	right: -10px;
+	top: -40px;
+	margin-right: 15px;
+}*/
+.header .login{
+	position: relative;
+	float: right;
+	right: -82px;
+	top: -35px;
+	color:#aaa;
+	width: 23px;
+	height: 26px;
+}
+.ant-menu-horizontal > .ant-menu-item, .ant-menu-horizontal > .ant-menu-submenu {
+	top:5px;
+}
+.logo{
+	margin-top: 5px;
+	padding-top: 10px;
+}
+.logo>img{
+	width: 63px;
+	height: 43px;
+}
+.line1{
+	position: absolute;
+	left: 413px;
+	top:39px;
+	width: 1px;
+	background-color: grey;
+	height: 19px;
+}
+.line2{
+	position: absolute;
+	left: 574px;
+	top:39px;
+	width: 1px;
+	background-color: grey;
+	height: 19px;
+}
+
+.header .user{
+	position: absolute;
+	top: 14px;
+	right:40px;
+}
+.header .edit-btn{
+	margin-right:20px;
+}
+
+.ant-dropdown-menu-item >a {
+	text-align: center;
+}
+.ant-dropdown-menu-item .ant-btn {
+	margin-left: 10px;
+	margin-bottom: 5px;
+}
+.shoppingCart .ant-btn-lg{
+	position: "absolute";
+	right: 174px;
+	top: 6px;
+	height:28px;
+}
+.shoppingCart .ant-badge{
+	top: -7px;
+}
+.header .ant-btn-primary{
+	margin-left: 10px;
+}

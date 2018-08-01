@@ -1,0 +1,46 @@
+.register {
+	width: 550px;
+	float: left;
+	margin-left: 50px;	
+	margin-top: 30px;
+	padding:40px;
+	border: 1px solid #aaa;
+	border-radius: 4px;
+	height:650px;
+}
+.register .register-form{
+	width: 500px;
+}
+.register .register-form h2 {
+	margin-bottom: 30px;
+	font-weight: 400;
+	margin-left: -62px;		
+}
+.register .register-form h2 span {
+	font-size: 14px;
+	float: right;	
+	padding: 10px;
+}
+
+.register .ant-btn-primary{
+	margin-right:62px;
+}
+
+.ant-input-group > .ant-input-affix-wrapper:not(:last-child) .ant-input{
+	height: 40px;
+}
+.ant-input-group > .ant-input:last-child, .ant-input-group-addon:last-child{
+	height: 40px;
+}
+.ant-cascader-input.ant-input{
+	height: 40px;
+}
+.ant-input-lg{
+	height: 40px;
+}
+label{
+	top:4px;
+}
+.register .ant-input-group-addon:last-child{
+	width: 0px;
+}

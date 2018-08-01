@@ -1,0 +1,14 @@
+.female >h3{
+	font-weight: 700;
+	display: block;
+	margin:30px 55% 20px 0px;
+}
+
+.female .product{
+	margin-top: 20px;
+}
+
+.female .product .custom-image >img{
+	width: 230px;
+	height: 265px;
+}

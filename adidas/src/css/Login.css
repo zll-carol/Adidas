@@ -1,0 +1,76 @@
+.login .login-form{
+	width: 450px;
+	float: left;
+	margin-left: 250px;	
+	margin-top: 30px;
+	padding:40px;
+	border: 1px solid #aaa;
+	border-radius: 4px;
+}
+
+.login .login-form h2 {
+	margin-bottom: 15px;
+	font-weight: 700;
+	margin-left: -321px;
+}
+.login .login-form h2 span {
+	font-size: 14px;
+	float: right;	
+	padding: 10px;
+}
+.login .login-form .ant-input-group-addon:last-child {
+	padding: 0;
+}
+.login .ant-input-lg{
+	height: 40px;
+}
+.login .ant-checkbox-wrapper{
+	right: 133px;
+	top:-10px;
+	font-size: 10px;
+	color:black;
+}
+.login .login-form-button{
+	width: 368px;
+	height: 40px;
+	margin-top:15px;
+	font-size: 18px;
+}
+.login .forget{
+	color:rgb(50,150,250);
+	display: block;
+	position: relative;
+	margin-right: 294px;
+	font-size: 14px;
+} 
+.login .dashed{
+	height: 1px;
+	width: 368px;
+	border:1px dashed #ccc;
+	margin-top:-10px;
+}
+.login .footer >span {
+	display: block;
+	margin-right: 241px;
+	margin-top: 15px;
+	color:black;
+	font-size: 15px;
+}
+.login .footer .Icon{
+	display:block;
+	margin-top: 8px;
+	margin-right: 340px;
+	cursor: pointer;
+}
+
+.has-error .ant-form-explain, .has-error .ant-form-split{
+	color:#FF6D6D;
+	font-size: 14px;
+}
+
+.login .ant-form-explain, .ant-form-extra{
+	margin-bottom: 16px;
+}
+.login .ant-input-group-addon:last-child{
+	width: 0px;
+}
